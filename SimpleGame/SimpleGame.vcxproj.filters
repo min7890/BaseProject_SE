@@ -43,6 +43,12 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+	<None Include="Shaders\PostProcess.fs">
+	  <Filter>소스 파일\Shaders</Filter>
+	</None>
+	<None Include="Shaders\PostProcess.vs">
+	  <Filter>소스 파일\Shaders</Filter>
+	</None>
     <None Include="Shaders\SolidRect.fs">
       <Filter>소스 파일\Shaders</Filter>
     </None>
